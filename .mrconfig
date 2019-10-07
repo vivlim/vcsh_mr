@@ -3,3 +3,6 @@ git_gc = git gc "$@"
 jobs = 5
 
 include = cat ~/.config/mr/config.d/*
+
+[.vim]
+checkout = git clone 'git@github.com:vivlim/vimfiles.git' '.vim'

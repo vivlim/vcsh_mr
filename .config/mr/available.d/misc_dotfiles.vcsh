@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/misc_dotfiles.git]
+checkout = vcsh clone git@github.com:vivlim/vcsh_misc_dotfiles.git misc_dotfiles
